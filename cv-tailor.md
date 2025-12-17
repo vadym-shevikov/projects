@@ -4,6 +4,7 @@ summary: "Multi-agent, local-first AI assistant that takes your CV (PDF) and a j
 techStack: ["Python", "LangChain", "LangGraph"]
 githubUrl: "https://github.com/vadym-shevikov/cv-tailor"
 featured: true
+published: true
 ---
 
 # CV Tailor — CV Optimization Assistant
