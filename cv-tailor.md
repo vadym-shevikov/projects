@@ -6,6 +6,7 @@ tags: ["@pre-alpha"]
 githubUrl: "https://github.com/vadym-shevikov/cv-tailor"
 featured: true
 published: true
+date: "2025-11-01"
 ---
 
 # CV Tailor — CV Optimization Assistant
