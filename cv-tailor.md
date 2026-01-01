@@ -1,7 +1,8 @@
 ---
-title: "CV Tailor (CV Optimization Assistant) @pre-alpha"
+title: "CV Optimization Assistant"
 summary: "Multi-agent, local-first AI assistant that takes your CV (PDF) and a job description (text), then analyzes fit + ATS readiness, rewrites key sections, and explains why each change helps for this specific role."
 techStack: ["Python", "LangChain", "LangGraph"]
+tags: ["@pre-alpha"]
 githubUrl: "https://github.com/vadym-shevikov/cv-tailor"
 featured: true
 published: true
