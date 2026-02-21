@@ -13,7 +13,7 @@ date: "2025-11-01"
 
 **CV Tailor** is a local, multi-agent AI assistant that helps you tailor your resume to a specific job. You upload a **CV as a PDF** and paste a **job description** (as text), and the system returns a clear **Markdown report**: fit analysis, missing keywords, ATS-friendly improvements, and suggested rewrites for key sections.
 
-<video controls width="100%" style={{ aspectRatio: "16/9", borderRadius: "8px", margin: "1.5rem 0" }}>
+<video controls width="100%" style={{ aspectRatio: "16/9", borderRadius: "8px", margin: "1.5rem 0" }} poster="/video/projects/cv-tailor/poster.png">
   <source src="/video/projects/cv-tailor/demo.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
